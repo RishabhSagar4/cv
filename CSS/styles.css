@@ -1,0 +1,29 @@
+body{
+    background-color: #FFEDDB;
+    font-family: monospace;
+  }
+  h1{
+    color: #B8405E
+  }
+  h3{
+    color: #B8405E
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+  img:hover{
+    background-color: Gold;
+  }
+  .mango{
+    background-color: Green;
+  }
+  .strawberry{
+    background-color: Red;
+  }
+  .pic{
+    border-radius: 100%
+  }
